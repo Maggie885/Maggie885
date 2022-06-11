@@ -2,7 +2,7 @@
 - 🏫 Student at the University of British Columbia
 - 📚 Major in Business and Computer Science
 - 🌱 Research Assistant @UBC Operations Research Lab
-- 💻 Current SDE Intern @IoT & Incoming @SAP & Prev Intern @EY
+- 💻 Current SDE Intern @IoT & Incoming @SAP & Prev @EY
 - ❤️ LOVE travelling🗺️, reading📚 and kickboxing🥊
 - 💼 My LinkedIn: https://www.linkedin.com/in/maggie-sheen/
 - 📫 How to reach me: maggieshenresearch@gmail.com
