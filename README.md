@@ -1,6 +1,6 @@
 **Hi there, I’m Maggie 👋**
 - 🏫 Student at the University of British Columbia
-- 📚 Major in Business and Computer Science
+- 📚 Major in Business and Computer Science @UBC
 - 🌱 Research Assistant @UBC Operations Research Lab
 - 💻 SDE Intern Incoming @SAP & Prev @EY
 - ❤️ LOVE travelling🗺️, reading📚 and kickboxing🥊
